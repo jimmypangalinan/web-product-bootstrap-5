@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;;
+}
+
+/* styling navbar */
+.navbar-brand{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.nav-link.active{
+    font-weight: 700;
+}
+
+/* showcase */
+
+.tagline{
+    font-weight: 700;
+}
+
+.text-play{
+    font-weight: 700;
+    color:rgba(2, 137, 122, 1);
+    ;
+}
+
+.lvideo{
+    margin-right: 15px;
+}
+
+/* section-product */
+
+.product{
+    background-image: url(../img/bg/Bg.png);
+}
+
+
+/* icon */
+
+h6{
+    font-weight: 700;
+}
+
+
+.price{
+    font-size: 100px;
+}
